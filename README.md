@@ -2,7 +2,6 @@
 
 This is a repository of my First webapp developed using REACT JS and deployed using Gitpages.
 
-Website: https://immanu10.github.io/corona-status/ 
 
 For source code go to master branch.
 
