@@ -1,6 +1,6 @@
-This is a repository of my First webapp developed using REACT JS and deployed using Gitpages.
+# Corona status website
 
-### Corona status website
+This is a code repository of my First webapp developed using REACT JS and deployed using Gitpages.
 
 https://immanu10.github.io/corona-status/ 
 
