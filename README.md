@@ -1,4 +1,4 @@
-# corona-status
+# Corona status website
 
 This is a repository of my First webapp developed using REACT JS and deployed using Gitpages.
 
